@@ -1,6 +1,6 @@
 theme: jekyll-theme-cayman
-title: "CS 194/294-196 Large Language Model Agents"
-description: Fall 2024
+title: "Large Language Model Agents"
+description: MOOC, Fall 2024
 show_downloads: false
 github:
   is_project_page: false
