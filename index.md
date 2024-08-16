@@ -9,7 +9,7 @@ redirect_from:
 ### Prospective Students
 
 - To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.
-- <span style="color:red">For any questions, please email course staff at <a href="mailto:llmagentslearning.f24@gmail.com">llmagentslearning.f24@gmail.com</a>.</span>
+- For any questions, please email course staff at <a href="mailto:llmagentslearning.f24@gmail.com">llmagentslearning.f24@gmail.com</a>.
 
 ## Course Staff
 
