@@ -34,6 +34,55 @@ redirect_from:
 </tbody>
 </table>
 
+## Guest Speakers
+
+<table>
+<tbody>
+<tr>
+<td><img src="assets/Denny Zhou.jpg" height=200/></td>
+<td><img src="assets/Burak Gokturk.jpg" height=200/></td>
+<td><img src="assets/Chi Wang.jpg" height=200/></td>
+<td><img src="assets/Graham Neubig.jpg" height=200/></td>
+</tr>
+
+<tr>
+<td>Denny Zhou</td>
+<td>Burak Gokturk</td>
+<td>Chi Wang</td>
+<td>Graham Neubig</td>
+</tr>
+ 
+<tr>
+<td>Principal Scientist, Google DeepMind</td>
+<td>VP Engineering, Cloud AI, and AI/ML for Developers; Google</td>
+<td>Co-Founder, AutoGen-AI</td>
+<td>Associate Professor, Carnegie Mellon University</td>
+</tr>
+
+<tr>
+<td><img src="assets/Percy Liang.jpg" height=200/></td>
+<td><img src="assets/Shunyu Yao.jpg" height=200/></td>
+<td><img src="assets/Yuandong Tian.jpg" height=200/></td>
+<td></td>
+</tr>
+
+<tr>
+<td>Percy Liang</td>
+<td>Shunyu Yao</td>
+<td>Yuandong Tian</td>
+<td>Nicolas Chapados</td>
+</tr>
+ 
+<tr>
+<td>Associate Professor, Stanford University</td>
+<td>Research Scientist, OpenAI</td>
+<td>Research Scientist Director, Meta AI (FAIR)</td>
+<td></td>
+</tr>
+
+</tbody>
+</table>
+
 ## Course Description
 
 Large language models (LLMs) have revolutionized a wide range of domains. In particular, LLMs have been developed as agents to interact with the world and handle various tasks. With the continuous advancement of LLM techniques, LLM agents are set to be the upcoming breakthrough in AI, and they are going to transform the future of our daily life with the support of intelligent task automation and personalization. In this course, we will first discuss fundamental concepts that are essential for LLM agents, including the foundation of LLMs, essential LLM abilities required for task automation, as well as infrastructures for agent development. We will also cover representative agent applications, including code generation, robotics, web automation, medical applications, and scientific discovery. Meanwhile, we will discuss limitations and potential risks of current LLM agents, and share insights into directions for further improvement. Specifically, this course will include the following topics:
