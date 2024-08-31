@@ -105,7 +105,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
 | Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
 | Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, AutoGen-AI |          |
-| Sept 30 | Trends of Generative AI with Enterprises, Key blocks to build successful agents | Burak Gokturk, Google |          |
+| Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 |  | TBA |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
 | Oct 21 |  | Nicolas Chapados, ServiceNow |          |
@@ -115,5 +115,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
 | Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
 | Dec 2 | Project Presentation |          |          |
+
+##
 
 <img src="assets/Affiliations.jpg" height=500/>
