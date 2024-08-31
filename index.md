@@ -39,8 +39,8 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<td><img src="assets/Denny Zhou.jpg" height=200/></td>
-<td><img src="assets/Burak Gokturk.jpg" height=200/></td>
+<td><img src="assets/Denny Zhou.jpeg" height=200/></td>
+<td><img src="assets/Burak Gokturk.png" height=200/></td>
 <td><img src="assets/Chi Wang.jpg" height=200/></td>
 <td><img src="assets/Graham Neubig.jpg" height=200/></td>
 </tr>
@@ -53,30 +53,30 @@ redirect_from:
 </tr>
  
 <tr>
-<td>Principal Scientist, Google DeepMind</td>
-<td>VP Engineering, Cloud AI, and AI/ML for Developers; Google</td>
-<td>Co-Founder, AutoGen-AI</td>
-<td>Associate Professor, Carnegie Mellon University</td>
+<td>Principal Scientist, <br \> Google DeepMind</td>
+<td>VP Engineering, Cloud AI, and <br \> AI/ML for Developers; Google</td>
+<td>Co-Founder, <br \> AutoGen-AI</td>
+<td>Associate Professor, <br \> Carnegie Mellon University</td>
 </tr>
 
 <tr>
-<td><img src="assets/Percy Liang.jpg" height=200/></td>
-<td><img src="assets/Shunyu Yao.jpg" height=200/></td>
-<td><img src="assets/Yuandong Tian.jpg" height=200/></td>
+<td><img src="assets/Percy Liang.jpeg" height=200/></td>
+<td><img src="assets/Yuandong Tian.png" height=200/></td>
+<td><img src="assets/Shunyu Yao.jpeg" height=200/></td>
 <td></td>
 </tr>
 
 <tr>
 <td>Percy Liang</td>
-<td>Shunyu Yao</td>
 <td>Yuandong Tian</td>
+<td>Shunyu Yao</td>
 <td>Nicolas Chapados</td>
 </tr>
  
 <tr>
-<td>Associate Professor, Stanford University</td>
-<td>Research Scientist, OpenAI</td>
-<td>Research Scientist Director, Meta AI (FAIR)</td>
+<td>Associate Professor, <br \> Stanford University</td>
+<td>Research Scientist Director, <br \> Meta AI (FAIR)</td>
+<td>Research Scientist, <br \> OpenAI</td>
 <td></td>
 </tr>
 
