@@ -117,4 +117,4 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Dec 2 | Project Presentation |          |          |
 
 ## Affiliations
-<img src="assets/Affiliations.jpg" height=800/>
+<img src="assets/Affiliations.jpg" height=500/>
