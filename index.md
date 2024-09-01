@@ -55,7 +55,7 @@ redirect_from:
 </tr>
  
 <tr>
-<td><img src="assets/Google Deepmind.jpeg" height=50/></td>
+<td><img src="assets/Google Deepmind.png" height=50/></td>
 <td><img src="assets/openai.png" height=50/></td>
 <td><img src="assets/Microsoft Autogen.png" height=50/></td>
 <td><img src="assets/Google.jpg" height=50/></td>
