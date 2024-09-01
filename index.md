@@ -40,50 +40,56 @@ redirect_from:
 <tbody>
 <tr>
 <td><img src="assets/Denny Zhou.jpeg" height=150/></td>
-<td><img src="assets/Burak Gokturk.png" height=150/></td>
-<td><img src="assets/Chi Wang.jpg" height=150/></td>
-<td><img src="assets/Graham Neubig.jpg" height=150/></td>
-<td><img src="assets/Jim Fan.jpeg" height=150/></td>
-</tr>
-
-<tr>
-<td>Denny Zhou</td>
-<td>Burak Gokturk</td>
-<td>Chi Wang</td>
-<td>Graham Neubig</td>
-<td>Jim Fan</td>
-</tr>
- 
-<tr>
-<td>Principal Scientist, <br \> Google DeepMind</td>
-<td>VP Engineering, Cloud AI, and <br \> AI/ML for Developers; Google</td>
-<td>Co-Founder, <br \> AutoGen-AI</td>
-<td>Associate Professor, <br \> Carnegie Mellon University</td>
-<td>Sr. Research Manager, <br \> NVIDIA</td>
-</tr>
-
-<tr>
-<td><img src="assets/Percy Liang.jpeg" height=150/></td>
-<td><img src="assets/Yuandong Tian.png" height=150/></td>
 <td><img src="assets/Shunyu Yao.jpeg" height=150/></td>
-<td><img src="assets/Nicolas Chapados.png" height=150/></td></td>
+<td><img src="assets/Chi Wang.jpg" height=150/></td>
+<td><img src="assets/Burak Gokturk.png" height=150/></td>
 <td><img src="assets/Omar Khattab.jpg" height=150/></td></td>
 </tr>
 
 <tr>
-<td>Percy Liang</td>
-<td>Yuandong Tian</td>
+<td>Denny Zhou</td>
 <td>Shunyu Yao</td>
-<td>Nicolas Chapados</td>
+<td>Chi Wang</td>
+<td>Burak Gokturk</td>
 <td>Omar Khattab</td>
 </tr>
  
 <tr>
-<td>Associate Professor, <br \> Stanford University</td>
-<td>Research Scientist Director, <br \> Meta AI (FAIR)</td>
-<td>Research Scientist, <br \> OpenAI</td>
-<td>VP of Research, <br \> ServiceNow</td>
-<td>Research Scientist, <br \> Databricks</td>
+<td><img src="assets/Google DeepMind.png" height=50/></td>
+<td><img src="assets/openai.png" height=50/></td>
+<td><img src="assets/Microsoft Autogen.png" height=50/></td>
+<td><img src="assets/Google.jpg" height=50/></td>
+<td><img src="assets/databricks.png" height=50/></td>
+</tr>
+
+</tbody>
+</table>
+
+<table>
+<tbody>
+
+<tr>
+<td><img src="assets/Graham Neubig.jpg" height=150/></td>
+<td><img src="assets/Nicolas Chapados.png" height=150/></td></td>
+<td><img src="assets/Yuandong Tian.png" height=150/></td>
+<td><img src="assets/Jim Fan.jpeg" height=150/></td>
+<td><img src="assets/Percy Liang.jpeg" height=150/></td>
+</tr>
+
+<tr>
+<td>Graham Neubig</td>
+<td>Nicolas Chapados</td>
+<td>Yuandong Tian</td>
+<td>Jim Fan</td>
+<td>Percy Liang</td>
+</tr>
+ 
+<tr>
+<td><img src="assets/CMU.png" height=50/></td>
+<td><img src="assets/servicenow.png" height=50/></td>
+<td><img src="assets/meta ai.jpeg" height=50/></td>
+<td><img src="assets/nvidia.png" height=50/></td>
+<td><img src="assets/stanford.png" height=50/></td>
 </tr>
 
 </tbody>
@@ -114,14 +120,10 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
-| Oct 21 | Agent applications at ServiceNow | Nicolas Chapados, ServiceNow |          |
+| Oct 21 | Agent for Workflow Applications | Nicolas Chapados, ServiceNow |          |
 | Oct 28 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
 | Nov 4 | Foundation Agent | Jim Fan, NVIDIA |          |
 | Nov 11 | No Class - Veteran's Day |          |          |
 | Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
 | Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
 | Dec 2 | Project Presentations |          |          |
-
-##
-
-<img src="assets/Affiliations.jpg" height=500/>
