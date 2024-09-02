@@ -39,11 +39,11 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<td><img src="assets/Denny Zhou.jpeg" height=150/></td>
-<td><img src="assets/Shunyu Yao.jpeg" height=150/></td>
-<td><img src="assets/Chi Wang.jpg" height=150/></td>
-<td><img src="assets/Burak Gokturk.png" height=150/></td>
-<td><img src="assets/Omar Khattab.jpg" height=150/></td></td>
+<td><img src="assets/Denny Zhou.jpeg" height=120/></td>
+<td><img src="assets/Shunyu Yao.jpeg" height=120/></td>
+<td><img src="assets/Chi Wang.jpg" height=120/></td>
+<td><img src="assets/Burak Gokturk.png" height=120/></td>
+<td><img src="assets/Omar Khattab.jpg" height=120/></td></td>
 </tr>
 
 <tr>
@@ -55,11 +55,11 @@ redirect_from:
 </tr>
  
 <tr>
-<td><img src="assets/Google Deepmind.png" height=50/></td>
-<td><img src="assets/openai.png" height=50/></td>
-<td><img src="assets/Microsoft Autogen.png" height=50/></td>
-<td><img src="assets/Google.jpg" height=50/></td>
-<td><img src="assets/databricks.png" height=50/></td>
+<td><img src="assets/Google Deepmind.png" height=40/></td>
+<td><img src="assets/openai.png" height=40/></td>
+<td><img src="assets/Microsoft Autogen.png" height=40/></td>
+<td><img src="assets/Google.jpg" height=40/></td>
+<td><img src="assets/databricks.png" height=40/></td>
 </tr>
 
 </tbody>
@@ -69,11 +69,11 @@ redirect_from:
 <tbody>
 
 <tr>
-<td><img src="assets/Graham Neubig.jpg" height=150/></td>
-<td><img src="assets/Nicolas Chapados.png" height=150/></td></td>
-<td><img src="assets/Yuandong Tian.png" height=150/></td>
-<td><img src="assets/Jim Fan.jpeg" height=150/></td>
-<td><img src="assets/Percy Liang.jpeg" height=150/></td>
+<td><img src="assets/Graham Neubig.jpg" height=120/></td>
+<td><img src="assets/Nicolas Chapados.png" height=120/></td></td>
+<td><img src="assets/Yuandong Tian.png" height=120/></td>
+<td><img src="assets/Jim Fan.jpeg" height=120/></td>
+<td><img src="assets/Percy Liang.jpeg" height=120/></td>
 </tr>
 
 <tr>
@@ -85,11 +85,11 @@ redirect_from:
 </tr>
  
 <tr>
-<td><img src="assets/CMU.png" height=50/></td>
-<td><img src="assets/servicenow.png" height=50/></td>
-<td><img src="assets/meta ai.jpeg" height=50/></td>
-<td><img src="assets/nvidia.png" height=50/></td>
-<td><img src="assets/stanford.png" height=50/></td>
+<td><img src="assets/CMU.png" height=40/></td>
+<td><img src="assets/servicenow.png" height=40/></td>
+<td><img src="assets/meta ai.jpeg" height=40/></td>
+<td><img src="assets/nvidia.png" height=40/></td>
+<td><img src="assets/stanford.png" height=40/></td>
 </tr>
 
 </tbody>
