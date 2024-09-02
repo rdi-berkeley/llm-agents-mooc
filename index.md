@@ -55,11 +55,11 @@ redirect_from:
 </tr>
  
 <tr>
-<td><img src="assets/Google Deepmind.png" height=40/></td>
-<td><img src="assets/openai.png" height=40/></td>
+<td><img src="assets/Google Deepmind.png" height=30/></td>
+<td><img src="assets/openai.png" height=30/></td>
 <td><img src="assets/Microsoft Autogen.png" height=40/></td>
 <td><img src="assets/Google.jpg" height=40/></td>
-<td><img src="assets/databricks.png" height=40/></td>
+<td><img src="assets/databricks.png" height=30/></td>
 </tr>
 
 </tbody>
@@ -85,11 +85,11 @@ redirect_from:
 </tr>
  
 <tr>
-<td><img src="assets/CMU.png" height=40/></td>
-<td><img src="assets/servicenow.png" height=40/></td>
-<td><img src="assets/meta ai.jpeg" height=40/></td>
-<td><img src="assets/nvidia.png" height=40/></td>
-<td><img src="assets/stanford.png" height=40/></td>
+<td><img src="assets/CMU.png" height=45/></td>
+<td><img src="assets/servicenow.png" height=30/></td>
+<td><img src="assets/meta ai.jpeg" height=30/></td>
+<td><img src="assets/nvidia.png" height=30/></td>
+<td><img src="assets/stanford.png" height=30/></td>
 </tr>
 
 </tbody>
