@@ -43,7 +43,7 @@ redirect_from:
 <td><img src="assets/Shunyu Yao.jpeg" height=120/></td>
 <td><img src="assets/Chi Wang.jpg" height=120/></td>
 <td><img src="assets/Burak Gokturk.png" height=120/></td>
-<td><img src="assets/Omar Khattab.jpg" height=120/></td></td>
+<td><img src="assets/Omar Khattab.jpg" height=120/></td>
 </tr>
 
 <tr>
@@ -70,7 +70,7 @@ redirect_from:
 
 <tr>
 <td><img src="assets/Graham Neubig.jpg" height=120/></td>
-<td><img src="assets/Nicolas Chapados.png" height=120/></td></td>
+<td><img src="assets/Nicolas Chapados.png" height=120/></td>
 <td><img src="assets/Yuandong Tian.png" height=120/></td>
 <td><img src="assets/Jim Fan.jpeg" height=120/></td>
 <td><img src="assets/Percy Liang.jpeg" height=120/></td>
