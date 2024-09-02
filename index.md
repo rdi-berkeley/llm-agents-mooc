@@ -126,4 +126,3 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 11 | No Class - Veteran's Day |          |          |
 | Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
 | Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
-| Dec 2 | Project Presentations |          |          |
