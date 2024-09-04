@@ -6,6 +6,29 @@ redirect_from:
  - /
 ---
 
+<head>
+ <!-- HTML Meta Tags -->
+<title>Large Language Model Agents</title>
+<meta name="description" content="MOOC, Fall 2024">
+
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://llmagents-learning.org/f24">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Large Language Model Agents">
+<meta property="og:description" content="MOOC, Fall 2024">
+<meta property="og:image" content="llmagents-twittercard.png">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="llmagents-learning.org">
+<meta property="twitter:url" content="https://llmagents-learning.org/f24">
+<meta name="twitter:title" content="Large Language Model Agents">
+<meta name="twitter:description" content="MOOC, Fall 2024">
+<meta name="twitter:image" content="llmagents-twittercard.png">
+
+</head>
+
+
 ### Prospective Students
 
 - To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.
