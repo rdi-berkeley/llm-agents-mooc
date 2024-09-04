@@ -18,8 +18,19 @@
     <!-- CSS and JS files, if any -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
 </head>
-<body>
-    <!-- Your site content will be injected here -->
-    {{ content }}
-</body>
+  
+    {% include head.html %}
+
+  <body>
+    {% include page-header.html %}
+
+    <section class="main-content">
+      
+      {{ content }}
+
+      {% include page-footer.html %}
+
+    </section>
+
+  </body>
 </html>
