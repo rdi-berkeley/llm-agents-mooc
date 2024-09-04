@@ -57,7 +57,7 @@ redirect_from:
 <tr>
 <td><img src="assets/Google Deepmind.png" height=30/></td>
 <td><img src="assets/openai.png" height=30/></td>
-<td><img src="assets/Microsoft Autogen.png" height=40/></td>
+<td><img src="assets/Google Deepmind.png" height=30/></td>
 <td><img src="assets/Google.jpg" height=40/></td>
 <td><img src="assets/databricks.png" height=30/></td>
 </tr>
@@ -116,7 +116,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 |--------|-------|-------|----------|
 | Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
 | Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
-| Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, AutoGen-AI |          |
+| Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, Google DeepMind |          |
 | Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
