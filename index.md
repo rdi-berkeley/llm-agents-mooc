@@ -9,9 +9,10 @@ redirect_from:
 <div>
     <!-- Twitter Card data -->
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@yourtwitterhandle">
-    <meta name="twitter:title" content="Your Page Title">
-    <meta name="twitter:description" content="A brief description of your page">
+    <meta property="twitter:domain" content="llmagents-learning.org">
+    <meta property="twitter:url" content="https://llmagents-learning.org/f24">
+    <meta name="twitter:title" content="Large Language Model Agents">
+    <meta name="twitter:description" content="MOOC, Fall 2024">
     <meta name="twitter:image" content="assets/llmagents-twittercard.png">
 </div>
 
