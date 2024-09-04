@@ -6,17 +6,6 @@ redirect_from:
  - /
 ---
 
-<div>
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta property="twitter:domain" content="llmagents-learning.org">
-    <meta property="twitter:url" content="https://llmagents-learning.org/f24">
-    <meta name="twitter:title" content="Large Language Model Agents">
-    <meta name="twitter:description" content="MOOC, Fall 2024">
-    <meta name="twitter:image" content="assets/llmagents-twittercard.png">
-</div>
-
-
 ### Prospective Students
 
 - To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.
