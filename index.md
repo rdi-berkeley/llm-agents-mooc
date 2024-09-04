@@ -120,7 +120,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
-| Oct 21 | Agent for Workflow Applications | Nicolas Chapados, ServiceNow |          |
+| Oct 21 | The Unsolved Challenges of LLMs ​ in Open-Ended <br /> Web Tasks: a case study on the future of work | Nicolas Chapados, ServiceNow Research |          |
 | Oct 28 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
 | Nov 4 | Foundation Agent | Jim Fan, NVIDIA |          |
 | Nov 11 | No Class - Veteran's Day |          |          |
