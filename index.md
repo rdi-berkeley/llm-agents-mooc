@@ -1,5 +1,5 @@
 ---
-layout: custom
+layout: default
 title: "Large Language Model Agents"
 permalink: /f24
 redirect_from:
