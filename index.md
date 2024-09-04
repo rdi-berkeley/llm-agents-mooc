@@ -70,7 +70,7 @@ redirect_from:
 
 <tr>
 <td><img src="assets/Graham Neubig.jpg" height=120/></td>
-<td><img src="assets/Nicolas Chapados.png" height=120/></td>
+<td><img src="assets/Nicolas Chapados.jpg" height=120/></td>
 <td><img src="assets/Yuandong Tian.png" height=120/></td>
 <td><img src="assets/Jim Fan.jpeg" height=120/></td>
 <td><img src="assets/Percy Liang.jpeg" height=120/></td>
