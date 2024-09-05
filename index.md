@@ -39,27 +39,24 @@ redirect_from:
 <table>
 <tbody>
 <tr>
-<td><img src="assets/Denny Zhou.jpeg" height=120/></td>
-<td><img src="assets/Shunyu Yao.jpeg" height=120/></td>
-<td><img src="assets/Chi Wang.jpg" height=120/></td>
-<td><img src="assets/Burak Gokturk.png" height=120/></td>
-<td><img src="assets/Omar Khattab.jpg" height=120/></td>
+<td><img src="assets/Denny Zhou.jpeg" height=150/></td>
+<td><img src="assets/Shunyu Yao.jpeg" height=150/></td>
+<td><img src="assets/Chi Wang.jpg" height=150/></td>
+<td><img src="assets/Jerry Liu.jpg" height=150/></td>
 </tr>
 
 <tr>
 <td>Denny Zhou</td>
 <td>Shunyu Yao</td>
 <td>Chi Wang</td>
-<td>Burak Gokturk</td>
-<td>Omar Khattab</td>
+<td>Jerry Liu</td>
 </tr>
  
 <tr>
-<td><img src="assets/Google Deepmind.png" height=30/></td>
-<td><img src="assets/openai.png" height=30/></td>
-<td><img src="assets/Google Deepmind.png" height=30/></td>
-<td><img src="assets/Google.jpg" height=40/></td>
-<td><img src="assets/databricks.png" height=30/></td>
+<td><img src="assets/Google Deepmind.png" height=40/></td>
+<td><img src="assets/openai.png" height=40/></td>
+<td><img src="assets/Google Deepmind.png" height=40/></td>
+<td><img src="assets/LlamaIndex.png" height=40/></td>
 </tr>
 
 </tbody>
@@ -69,27 +66,52 @@ redirect_from:
 <tbody>
 
 <tr>
-<td><img src="assets/Graham Neubig.jpg" height=120/></td>
-<td><img src="assets/Nicolas Chapados.jpg" height=120/></td>
-<td><img src="assets/Yuandong Tian.png" height=120/></td>
-<td><img src="assets/Jim Fan.jpeg" height=120/></td>
-<td><img src="assets/Percy Liang.jpeg" height=120/></td>
+<td><img src="assets/Burak Gokturk.png" height=150/></td>
+<td><img src="assets/Omar Khattab.jpg" height=150/></td>
+<td><img src="assets/Graham Neubig.jpg" height=150/></td>
+<td><img src="assets/Nicolas Chapados.jpg" height=150/></td>
 </tr>
 
 <tr>
+<td>Burak Gokturk</td>
+<td>Omar Khattab</td>
 <td>Graham Neubig</td>
 <td>Nicolas Chapados</td>
-<td>Yuandong Tian</td>
-<td>Jim Fan</td>
-<td>Percy Liang</td>
 </tr>
  
 <tr>
-<td><img src="assets/CMU.png" height=45/></td>
-<td><img src="assets/servicenow.png" height=30/></td>
-<td><img src="assets/meta ai.jpeg" height=30/></td>
-<td><img src="assets/nvidia.png" height=30/></td>
-<td><img src="assets/stanford.png" height=30/></td>
+<td><img src="assets/Google.jpg" height=50/></td>
+<td><img src="assets/databricks.png" height=40/></td>
+<td><img src="assets/CMU.png" height=50/></td>
+<td><img src="assets/servicenow.png" height=40/></td>
+</tr>
+
+</tbody>
+</table>
+
+
+<table>
+<tbody>
+
+<tr>
+<td><img src="assets/Yuandong Tian.png" height=150/></td>
+<td><img src="assets/Jim Fan.jpeg" height=150/></td>
+<td><img src="assets/Percy Liang.jpeg" height=150/></td>
+<td><img src="assets/Ben Mann.jpeg" height=150/></td>
+</tr>
+
+<tr>
+<td>Yuandong Tian</td>
+<td>Jim Fan</td>
+<td>Percy Liang</td>
+<td>Ben Mann</td>
+</tr>
+ 
+<tr>
+<td><img src="assets/meta ai.jpeg" height=40/></td>
+<td><img src="assets/nvidia.png" height=40/></td>
+<td><img src="assets/stanford.png" height=40/></td>
+<td><img src="assets/Anthropic.png" height=40/></td>
 </tr>
 
 </tbody>
@@ -116,7 +138,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 |--------|-------|-------|----------|
 | Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
 | Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
-| Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, Google DeepMind |          |
+| Sept 23 | Introduction to Agentic AI and AutoGen | Chi Wang, Google DeepMind <br />& Jerry Liu, LlamaIndex |          |
 | Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
 | Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
 | Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
@@ -126,3 +148,4 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 11 | No Class - Veteran's Day |          |          |
 | Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
 | Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
+| Dec 2 |  | Ben Mann, Anthropic |          |
