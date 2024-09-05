@@ -56,7 +56,7 @@ redirect_from:
 <td><img src="assets/Google Deepmind.png" height=40/></td>
 <td><img src="assets/openai.png" height=40/></td>
 <td><img src="assets/Google Deepmind.png" height=40/></td>
-<td><img src="assets/LlamaIndex.png" height=40/></td>
+<td><img src="assets/LlamaIndex.png" height=50/></td>
 </tr>
 
 </tbody>
@@ -111,7 +111,7 @@ redirect_from:
 <td><img src="assets/meta ai.jpeg" height=40/></td>
 <td><img src="assets/nvidia.png" height=40/></td>
 <td><img src="assets/stanford.png" height=40/></td>
-<td><img src="assets/Anthropic.png" height=40/></td>
+<td><img src="assets/Anthropic.png" height=18/></td>
 </tr>
 
 </tbody>
