@@ -134,9 +134,9 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 
 ## Syllabus
 
-| Date   | Guest Lecture | Readings | 
+| Date   | Guest Lecture | Supplemental Readings | 
 |--------|-------|-------|
-| Sept 9 | **LLM Reasoning** <br> Denny Zhou, Google DeepMind | - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200) <br> - [LLMs Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Premise Order Matters in Reasoning with LLMs](https://arxiv.org/abs/2402.08939) <br> - [Chain-of-Thought Transformers Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) <br> *All readings are optional this week.* |   
+| Sept 9 | **LLM Reasoning** <br> Denny Zhou, Google DeepMind | - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200) <br> - [LLMs Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Premise Order Matters in Reasoning with LLMs](https://arxiv.org/abs/2402.08939) <br> - [Chain-of-Thought Transformers Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) |   
 | Sept 16 | **LLM agents: brief history and overview** <br> Shunyu Yao, OpenAI | - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) <br> - [ReAct: Synergizing Reasoning and Acting in Language Models.](https://arxiv.org/abs/2210.03629)  |          
 | Sept 23 | **Introduction to Agentic AI and AutoGen** <br> Chi Wang, AutoGen-AI <br> **The Future of Knowledge Assistants** <br> Jerry Liu, LlamaIndex |  |          
 | Sept 30 | **Trends of Generative AI with Enterprises, Key blocks to build successful agents** <br> Burak Gokturk, Google |  |          
