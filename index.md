@@ -17,7 +17,7 @@ redirect_from:
 <tbody>
 <tr>
 <td>Instructor</td>
-<td>(Guest) Co-instructor</td>
+<td>Co-instructor</td>
 </tr>
 <tr>
 <td><img src="assets/dawn-berkeley.jpg" height=200/></td>
