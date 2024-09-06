@@ -8,7 +8,7 @@ redirect_from:
 
 ### Prospective Students
 
-- To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.
+- ***<span style="color:red"> To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.</span>***
 - For course discussion and questions, please join the MOOC channel at <a href="https://discord.gg/NWVpQ9rBvd">LLM Agents Discord</a>.
 
 ## Course Staff
