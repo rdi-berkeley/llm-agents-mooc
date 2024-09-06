@@ -134,18 +134,18 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 
 ## Syllabus (subject to change)
 
-| Date   | Topic | Speaker | Readings |
-|--------|-------|-------|----------|
-| Sept 9 | LLM Reasoning | Denny Zhou, Google DeepMind |          |
-| Sept 16 | LLM agents: brief history and overview | Shunyu Yao, OpenAI |          |
-| Sept 23 | Introduction to Agentic AI and AutoGen <br> & The Future of Knowledge Assistants | Chi Wang, Google DeepMind <br> & Jerry Liu, LlamaIndex |          |
-| Sept 30 | Trends of Generative AI with Enterprises, <br /> Key blocks to build successful agents | Burak Gokturk, Google |          |
-| Oct 7 | Compound AI Systems & the DSPy Framework | Omar Khattab, Databricks |          |
-| Oct 14 | Agents for Software Development | Graham Neubig, Carnegie Mellon University |          |
-| Oct 21 | The Unsolved Challenges of LLMs ​ in Open-Ended <br /> Web Tasks: a case study on the future of work | Nicolas Chapados, ServiceNow Research |          |
-| Oct 28 | Stronger Together: Marrying Neural Networks <br /> with Traditional Symbolic Decision-Making | Yuandong Tian, Meta AI (FAIR) |          |
-| Nov 4 | Foundation Agent | Jim Fan, NVIDIA |          |
-| Nov 11 | No Class - Veteran's Day |          |          |
-| Nov 18 | Cybersecurity, agents, and open-source | Percy Liang, Stanford University |          |
-| Nov 25 | LLM Agent Safety | Dawn Song, UC Berkeley |          |
-| Dec 2 |  | Ben Mann, Anthropic |          |
+| Date   | Guest Lecture | Readings | 
+|--------|-------|-------|
+| Sept 9 | **LLM Reasoning** <br> Denny Zhou, Google DeepMind | - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200) <br> - [LLMs Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Premise Order Matters in Reasoning with LLMs](https://arxiv.org/abs/2402.08939) <br> - [Chain-of-Thought Transformers Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) <br> *All readings are optional this week.* |   
+| Sept 16 | **LLM agents: brief history and overview** <br> Shunyu Yao, OpenAI | - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) <br> - [ReAct: Synergizing Reasoning and Acting in Language Models.](https://arxiv.org/abs/2210.03629)  |          
+| Sept 23 | **Introduction to Agentic AI and AutoGen** <br> Chi Wang, AutoGen-AI <br> **The Future of Knowledge Assistants** <br> Jerry Liu, LlamaIndex |  |          
+| Sept 30 | **Trends of Generative AI with Enterprises, Key blocks to build successful agents** <br> Burak Gokturk, Google |  |          
+| Oct 7 | **Compound AI Systems & the DSPy Framework** <br> Omar Khattab, Databricks |  |          
+| Oct 14 | **Agents for Software Development** <br> Graham Neubig, Carnegie Mellon University |  |          
+| Oct 21 | **Agent for Workflow Applications** <br> Nicolas Chapados, ServiceNow |  |          
+| Oct 28 | **Stronger Together: Marrying Neural Networks with Traditional Symbolic Decision-Making** <br> Yuandong Tian, Meta AI (FAIR) |  |          
+| Nov 4 | **Foundation Agent** <br> Jim Fan, NVIDIA |  |          
+| Nov 11 | **No Class - Veteran's Day** |          |          
+| Nov 18 | **Cybersecurity, agents, and open-source** <br> Percy Liang, Stanford University |  |          
+| Nov 25 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
+| Dec 2 | **TBA** <br> Ben Mann, Anthropic |  |   
