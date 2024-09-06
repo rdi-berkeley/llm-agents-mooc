@@ -132,7 +132,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 - Human-agent interaction, personalization, alignment
 - Multi-agent collaboration
 
-## Syllabus (subject to change)
+## Syllabus
 
 | Date   | Guest Lecture | Readings | 
 |--------|-------|-------|
