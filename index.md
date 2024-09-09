@@ -134,7 +134,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 
 ## Syllabus
 
-| Date   | Guest Lecture | Supplemental Readings | 
+| Date   | Guest Lecture <br> (3:00PM-5:00PM PST) | Supplemental Readings | 
 |--------|-------|-------|
 | Sept 9 | **LLM Reasoning** <br> Denny Zhou, Google DeepMind <br> [Livestream](https://www.youtube.com/live/7in8pUnz2dk) | - [Chain-of-Thought Reasoning Without Prompting](https://arxiv.org/abs/2402.10200) <br> - [LLMs Cannot Self-Correct Reasoning Yet](https://arxiv.org/abs/2310.01798) <br> - [Premise Order Matters in Reasoning with LLMs](https://arxiv.org/abs/2402.08939) <br> - [Chain-of-Thought Transformers Solve Inherently Serial Problems](https://arxiv.org/abs/2402.12875) |   
 | Sept 16 | **LLM agents: brief history and overview** <br> Shunyu Yao, OpenAI | - [WebShop: Towards Scalable Real-World Web Interaction with Grounded Language Agents](https://arxiv.org/abs/2207.01206) <br> - [ReAct: Synergizing Reasoning and Acting in Language Models.](https://arxiv.org/abs/2210.03629)  |          
