@@ -150,6 +150,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 25 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
 | Dec 2 | **TBA** <br> Ben Mann, Anthropic |  |   
 
+&nbsp;
 ## Completion Certificate
 
 LLM Agent course completion certificates will be awarded to students based on the rules of the following tiers. All assignments are due December 12th, 2024 at 11:59PM PST.
@@ -190,14 +191,14 @@ All quizzes are released in parallel with (or shortly after) the corresponding l
 
 Create a twitter post, linkedin post, or medium article to post on Twitter of roughly 500 words. Include the link to our MOOC website in the article and tweet.
 
-- Students in the Trailblazer or Mastery Tier should either summarizes information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
+- Students in the Trailblazer or Mastery Tier should either summarize information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
 - Students in the Ninja or Lengendary Tier should write about their hackathon submission
 
 The written article is an effort-based assignment that will be graded as pass or no pass (P/NP).
 
 ### Labs
 
-There will be 3 lab assignments covering various LLM Agents topics. Students must recieve an overall score of 75% or above across the 3 lab assignments. Lab assignments will be released soon.
+There will be 3 lab assignments to give students some hands-on experience with building agents. Students must recieve an overall score of 75% or above across the 3 lab assignments. Lab assignments will be released soon.
 
 ### Hackathon
 
