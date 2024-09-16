@@ -149,3 +149,59 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 18 | **Cybersecurity, agents, and open-source** <br> Percy Liang, Stanford University |  |          
 | Nov 25 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
 | Dec 2 | **TBA** <br> Ben Mann, Anthropic |  |   
+
+## Completion Certificate
+
+LLM Agent course completion certificates will be awarded to students based on the rules of the following tiers. All assignments are due December 12th, 2024 at 11:59PM PST.
+
+**Trailblazer Tier:** 
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+
+**Mastery Tier:**
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Recieve an overall score of 75% or higher across all 3 lab assignments
+
+**Ninja Tier:**
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Submit a project to the LLM Agents Hackathon (more details coming soon!)
+
+**Legendary Tier:**
+- Complete all 12 quizzes associated with each lecture
+- Pass the written article assignment
+- Become a prize winner or finalist at the LLM Agents Hackathon (more details coming soon!)
+
+**Honorary Tier:**
+- For the most helpful/supportive students in discord!
+
+_NOTE: completing the assignments associated with this course in order to earn a Completion Certificate is completely optional. You are more than welcome to just watch the lectures and audit the course!_
+
+## Coursework
+
+All coursework will be released and submitted through the course website.
+
+### Quizzes
+
+All quizzes are released in parallel with (or shortly after) the corresponding lecture. Please remember to complete the quiz each week. Although it’s graded on completion, we encourage you to do your best. The questions are all multiple-choice and there are usually at most 5 per quiz.
+
+### Written Article
+
+Create a twitter post, linkedin post, or medium article to post on Twitter of roughly 500 words. Include the link to our MOOC website in the article and tweet.
+
+- Students in the Trailblazer or Mastery Tier should either summarizes information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
+- Students in the Ninja or Lengendary Tier should write about their hackathon submission
+
+The written article is an effort-based assignment that will be graded as pass or no pass (P/NP).
+
+### Labs
+
+There will be 3 lab assignments covering various LLM Agents topics. Students must recieve an overall score of 75% or above across the 3 lab assignments. Lab assignments will be released soon.
+
+### Hackathon
+
+More details coming soon!
+
+
+
