@@ -194,7 +194,7 @@ Create a twitter post, linkedin post, or medium article to post on Twitter of ro
 - Students in the Trailblazer or Mastery Tier should either summarize information from one of the lecture(s) or write a postmortem on their learning experience during our MOOC
 - Students in the Ninja or Lengendary Tier should write about their hackathon submission
 
-The written article is an effort-based assignment that will be graded as pass or no pass (P/NP).
+The written article is an effort-based assignment that will be graded as pass or no pass (P/NP). Submit your written article assignment [HERE](https://forms.gle/7ekobPNSWDLBWnDT6).
 
 ### Labs
 
