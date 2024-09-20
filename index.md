@@ -147,8 +147,8 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 4 | **Foundation Agent** <br> Jim Fan, NVIDIA |  |          
 | Nov 11 | **No Class - Veteran's Day** |          |          
 | Nov 18 | **Cybersecurity, agents, and open-source** <br> Percy Liang, Stanford University |  |          
-| Nov 25 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |          
-| Dec 2 | **TBA** <br> Ben Mann, Anthropic |  |   
+| Nov 25 | **Measuring Agent capabilities and Anthropic's RSP** <br> Ben Mann, Anthropic |  |   
+| Dec 2 | **LLM Agent Safety** <br> Dawn Song, UC Berkeley |  |  
 
 &nbsp;
 ## Completion Certificate
