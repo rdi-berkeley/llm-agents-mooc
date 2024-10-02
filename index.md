@@ -198,7 +198,7 @@ The written article is an effort-based assignment that will be graded as pass or
 
 ### Labs
 
-There will be 3 lab assignments to give students some hands-on experience with building agents. Students must recieve an overall score of 75% or above across the 3 lab assignments. All lab assignments will be released on Oct 1st.
+There will be 3 lab assignments to give students some hands-on experience with building agents. Students must recieve an overall score of 75% or above across the 3 lab assignments. All lab assignments will be released on Oct 7th.
 
 ### Hackathon
 
