@@ -162,7 +162,7 @@ LLM Agent course completion certificates will be awarded to students based on th
 **Mastery Tier:**
 - Complete all 12 quizzes associated with each lecture
 - Pass the written article assignment
-- Recieve an overall score of 75% or higher across all 3 lab assignments
+- Pass all 3 lab assignments
 
 **Ninja Tier:**
 - Complete all 12 quizzes associated with each lecture
@@ -198,7 +198,13 @@ The written article is an effort-based assignment that will be graded as pass or
 
 ### Labs
 
-There will be 3 lab assignments to give students some hands-on experience with building agents. Students must recieve an overall score of 75% or above across the 3 lab assignments. All lab assignments will be released on Oct 8th.
+There will be 3 lab assignments to give students some hands-on experience with building agents. Students must pass all 3 lab assignments. All labs are due December 12th, 2024 at 11:59pm PST. Please read the instructions carefully <a href="https://rdi.berkeley.edu/llm-agents-mooc/assets/instructions.pdf">here</a>. Please read the FAQs [here](https://docs.google.com/document/d/12MHAbLh86kGDuc2ddOmLHwjAuHh_rHiuAf_UiFuYcvE/edit?usp=sharing) before asking questions in Discord.
+
+| Assignment | Submission Form | 
+|--------|-------|
+| [Lab 1](https://drive.google.com/file/d/1Q5VNCIUT7ZxgOpjYpAgUbFjnU1iVX77l/view?usp=sharing) | [Submission 1](https://forms.gle/kTXzpaJqh3d4BvEWA) |
+| [Lab 2](https://drive.google.com/file/d/1GOd6miwZ_PzcqubPt8dNLfbq_9X5TUHf/view?usp=sharing) | [Submission 2](https://forms.gle/5J7ZM1DvmP4TfiAG8) |
+| [Lab 3](https://drive.google.com/file/d/1QW3YpNJQdYaIavexlQ9YVsiW7kgT6VOg/view?usp=sharing) | [Submission 3](https://forms.gle/9zEpec81YVr2LUzt7) |
 
 ### Hackathon
 
