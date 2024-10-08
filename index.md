@@ -202,7 +202,7 @@ There will be 3 lab assignments to give students some hands-on experience with b
 
 | Assignment | Submission Form | 
 |--------|-------|
-| [Lab 1](https://drive.google.com/file/d/1Q5VNCIUT7ZxgOpjYpAgUbFjnU1iVX77l/view?usp=sharing) | [Submission 1](https://forms.gle/kTXzpaJqh3d4BvEWA) |
+| [Lab 1](https://drive.google.com/drive/folders/1mOisEUkoLBcIcdkdGDiftq4IFAJ3xpzJ?usp=sharing) | [Submission 1](https://forms.gle/kTXzpaJqh3d4BvEWA) |
 | [Lab 2](https://drive.google.com/file/d/1GOd6miwZ_PzcqubPt8dNLfbq_9X5TUHf/view?usp=sharing) | [Submission 2](https://forms.gle/5J7ZM1DvmP4TfiAG8) |
 | [Lab 3](https://drive.google.com/file/d/1QW3YpNJQdYaIavexlQ9YVsiW7kgT6VOg/view?usp=sharing) | [Submission 3](https://forms.gle/9zEpec81YVr2LUzt7) |
 
