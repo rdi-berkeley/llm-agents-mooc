@@ -208,7 +208,7 @@ There will be 3 lab assignments to give students some hands-on experience with b
 
 ### Hackathon
 
-More details coming soon!
+Check out our hackathon website [here](https://rdi.berkeley.edu/llm-agents-hackathon/). Sign up for the hackathon [here](https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform) — every member of the team should signup individually. A separate team formation form will be released soon. There are no limits to team sizes.
 
 
 
