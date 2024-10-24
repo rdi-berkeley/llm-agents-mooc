@@ -6,6 +6,29 @@ redirect_from:
  - /
 ---
 
+<style>
+  center-container {
+        display: flex;
+        justify-content: center; /* Centers horizontally */
+    }
+
+  styled-button {
+        font-family: Inter, sans-serif; /* Change the font */
+        font-size: 28px;               /* Adjust the font size */
+        padding: 30px 36px;            /* Add some padding */
+        background-color: #ffbd03;     /* Set background color */
+        color: black;                  /* Set text color */
+        border: none;                  /* Remove border */
+        border-radius: 8px;            /* Rounded corners */
+        cursor: pointer;               /* Change cursor on hover */
+        transition: background-color 0.3s; /* Smooth transition */
+    }
+
+    styled-button:hover {
+        background-color: #dcbf72;     /* Darker shade on hover */
+    }
+  </style>
+
 ### Prospective Students
 
 - ***<span style="color:red"> To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.</span>***
@@ -14,7 +37,11 @@ redirect_from:
 ### Join our LLM Agents Hackathon!
 In partnership with the LLM Agents MOOC, we are excited to launch our [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/), open to all, with $200K+ in prizes & credits! 
 
-[Sign up today](https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform) and explore our 5 exciting tracks:
+<div class="center-container">
+  <button class="styled-button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform', '_blank')">LLM Agents MOOC Hackathon Signup</button>
+</div>
+
+Explore our 5 exciting tracks:
 - Applications: Build cutting-edge LLM agents! 
 - Benchmarks: Create innovative AI agent evaluation benchmarks! 
 - Fundamentals: Strengthen core agent capabilities! 
