@@ -7,12 +7,12 @@ redirect_from:
 ---
 
 <style>
-  center-container {
+  .center-container {
         display: flex;
         justify-content: center; /* Centers horizontally */
     }
 
-  styled-button {
+  .styled-button {
         font-family: Inter, sans-serif; /* Change the font */
         font-size: 28px;               /* Adjust the font size */
         padding: 30px 36px;            /* Add some padding */
@@ -24,7 +24,7 @@ redirect_from:
         transition: background-color 0.3s; /* Smooth transition */
     }
 
-    styled-button:hover {
+    .styled-button:hover {
         background-color: #dcbf72;     /* Darker shade on hover */
     }
   </style>
