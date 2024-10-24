@@ -11,6 +11,18 @@ redirect_from:
 - ***<span style="color:red"> To sign up for the course, please fill in this <a href="https://forms.gle/svSoNhKcGFjxup989">form</a>.</span>***
 - For course discussion and questions, please join the MOOC channel at <a href="https://discord.gg/NWVpQ9rBvd">LLM Agents Discord</a>.
 
+### Join our LLM Agents Hackathon!
+In partnership with the LLM Agents MOOC, we are excited to launch our [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/), open to all, with $200K+ in prizes & credits! 
+
+[Sign up today](https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform) and explore our 5 exciting tracks:
+- Applications: Build cutting-edge LLM agents! 
+- Benchmarks: Create innovative AI agent evaluation benchmarks! 
+- Fundamentals: Strengthen core agent capabilities! 
+- Safety: Address critical safety challenges in AI! 
+- Decentralized & Multi-Agents: Push the boundaries of multi-agent systems!
+
+Participation in the LLM Agent Hackathon can also earn credit toward one of our LLM Agent MOOC Certificates!
+
 ## Course Staff
 
 <table>
