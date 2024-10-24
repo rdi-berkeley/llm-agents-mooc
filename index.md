@@ -14,8 +14,8 @@ redirect_from:
 
   .styled-button {
         font-family: Inter, sans-serif; /* Change the font */
-        font-size: 28px;               /* Adjust the font size */
-        padding: 30px 36px;            /* Add some padding */
+        font-size: 18px;               /* Adjust the font size */
+        padding: 20px 24px;            /* Add some padding */
         background-color: #ffbd03;     /* Set background color */
         color: black;                  /* Set text color */
         border: none;                  /* Remove border */
