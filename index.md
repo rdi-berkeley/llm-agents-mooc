@@ -14,8 +14,8 @@ redirect_from:
 
   .styled-button {
         font-family: Inter, sans-serif; /* Change the font */
-        font-size: 18px;               /* Adjust the font size */
-        padding: 20px 24px;            /* Add some padding */
+        font-size: 14px;               /* Adjust the font size */
+        padding: 16px 20px;            /* Add some padding */
         background-color: #ffbd03;     /* Set background color */
         color: black;                  /* Set text color */
         border: none;                  /* Remove border */
@@ -38,7 +38,7 @@ redirect_from:
 In partnership with the LLM Agents MOOC, we are excited to launch our [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/), open to all, with $200K+ in prizes & credits! 
 
 <div class="center-container">
-  <button class="styled-button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform', '_blank')">LLM Agents MOOC Hackathon Signup</button>
+  <button class="styled-button" onclick="window.open('https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform', '_blank')">LLM Agents Hackathon Signup</button>
 </div>
 
 Explore our 5 exciting tracks:
