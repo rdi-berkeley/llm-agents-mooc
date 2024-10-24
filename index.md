@@ -19,7 +19,7 @@ redirect_from:
         background-color: #ffbd03;     /* Set background color */
         color: black;                  /* Set text color */
         border: none;                  /* Remove border */
-        border-radius: 8px;            /* Rounded corners */
+        border-radius: 4px;            /* Rounded corners */
         cursor: pointer;               /* Change cursor on hover */
         transition: background-color 0.3s; /* Smooth transition */
     }
