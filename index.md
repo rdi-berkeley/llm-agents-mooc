@@ -41,8 +41,21 @@ redirect_from:
 
 ## Guest Speakers
 
-<table>
-<tbody>
+<style>
+  .table {
+    width: 100%;
+    table-layout: fixed;
+    border-collapse: collapse;
+  }
+  .table td {
+    width: 25%;
+    text-align: center;
+    vertical-align: top;
+    padding: 10px;
+  }
+</style>
+
+<table class="table">
 <tr>
 <td><img src="assets/Denny Zhou.jpeg" height=150/></td>
 <td><img src="assets/Shunyu Yao.jpeg" height=150/></td>
@@ -64,11 +77,9 @@ redirect_from:
 <td><img src="assets/LlamaIndex.png" height=50/></td>
 </tr>
 
-</tbody>
 </table>
 
-<table>
-<tbody>
+<table class="table">
 
 <tr>
 <td><img src="assets/Burak Gokturk.png" height=150/></td>
@@ -91,12 +102,10 @@ redirect_from:
 <td><img src="assets/servicenow.png" height=40/></td>
 </tr>
 
-</tbody>
 </table>
 
 
-<table>
-<tbody>
+<table class="table">
 
 <tr>
 <td><img src="assets/Yuandong Tian.png" height=150/></td>
@@ -119,7 +128,6 @@ redirect_from:
 <td><img src="assets/Anthropic.png" height=18/></td>
 </tr>
 
-</tbody>
 </table>
 
 ## Course Description
