@@ -33,7 +33,7 @@ redirect_from:
 <td>Xinyun Chen</td>
 <tr>
 <td>Professor, UC Berkeley</td>
-<td>Research Scientist, Google DeepMind</td>
+<td>Research Scientist, <br> Google DeepMind</td>
 </tr>
 </tr>
 </tbody>
@@ -77,9 +77,7 @@ redirect_from:
 <td><img src="assets/LlamaIndex.png" height=50/></td>
 </tr>
 
-</table>
 
-<table class="table">
 
 <tr>
 <td><img src="assets/Burak Gokturk.png" height=150/></td>
@@ -102,10 +100,7 @@ redirect_from:
 <td><img src="assets/servicenow.png" height=40/></td>
 </tr>
 
-</table>
 
-
-<table class="table">
 
 <tr>
 <td><img src="assets/Yuandong Tian.png" height=150/></td>
