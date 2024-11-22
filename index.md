@@ -175,12 +175,12 @@ LLM Agent course completion certificates will be awarded to students based on th
 **Ninja Tier:**
 - Complete all 12 quizzes associated with each lecture
 - Pass the written article assignment
-- Submit a project to the LLM Agents Hackathon (more details coming soon!)
+- Submit a project to the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
 
 **Legendary Tier:**
 - Complete all 12 quizzes associated with each lecture
 - Pass the written article assignment
-- Become a prize winner or finalist at the LLM Agents Hackathon (more details coming soon!)
+- Become a prize winner or finalist at the [LLM Agents Hackathon](https://rdi.berkeley.edu/llm-agents-hackathon/)
 
 **Honorary Tier:**
 - For the most helpful/supportive students in discord!
@@ -216,7 +216,7 @@ There will be 3 lab assignments to give students some hands-on experience with b
 
 ### Hackathon
 
-Check out our hackathon website [here](https://rdi.berkeley.edu/llm-agents-hackathon/). Sign up for the hackathon [here](https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform) — every member of the team should signup individually. A separate team formation form will be released soon. There are no limits to team sizes.
+Check out our hackathon website [here](https://rdi.berkeley.edu/llm-agents-hackathon/). Sign up for the hackathon [here](https://docs.google.com/forms/d/e/1FAIpQLSevYR6VaYK5FkilTKwwlsnzsn8yI_rRLLqDZj0NH7ZL_sCs_g/viewform) — every member of the team should signup individually. Then, complete the team creation form [here](https://docs.google.com/forms/d/e/1FAIpQLSdKesnu7G_7M1dR-Uhb07ubvyZxcw6_jcl8klt-HuvahZvpvA/viewform). There are no limits to team sizes.
 
 For any questions, please visit our Hackathon FAQ [here](https://docs.google.com/document/d/1P4OBOXuHRJYU9tf1KH_NQWvaZQ1_8wCfNi3MOnCw6RI/edit?usp=sharing). You can also ask questions and find potential team members in our <a href="https://discord.gg/NWVpQ9rBvd">LLM Agents Discord</a>.
 
