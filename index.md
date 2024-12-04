@@ -156,7 +156,7 @@ Large language models (LLMs) have revolutionized a wide range of domains. In par
 | Nov 11 | **No Class - Veterans Day** |          |          
 | Nov 18 | **Open-Source and Science in the Era of Foundation Models** <br> Percy Liang, Stanford University <br> [Livestream](https://www.youtube.com/live/f3KKx9LWntQ) <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/percyliang.pdf">Slides</a> [Quiz 10](https://forms.gle/VMu6XGEWHhW1xvij6) | - [Cybench: A Framework for Evaluating Cybersecurity Capabilities and Risks of Language Models](https://arxiv.org/abs/2408.08926)  |  
 | Nov 25 | **Measuring Agent capabilities and Anthropic's RSP** <br> Ben Mann, Anthropic <br> [Livestream](https://www.youtube.com/live/6y2AnWol7oo) <a href="https://rdi.berkeley.edu/llm-agents-mooc/slides/antrsp.pdf">Slides</a> [Quiz 11](https://forms.gle/QU9EyEyeWP5sjPAu7) | - [Announcing our updated Responsible Scaling Policy](https://www.anthropic.com/news/announcing-our-updated-responsible-scaling-policy) <br> - [Developing a computer use model](https://www.anthropic.com/news/developing-computer-use) |   
-| Dec 2 | **Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy** <br> Dawn Song, UC Berkeley <br> [Livestream](https://www.youtube.com/live/QAgR4uQ15rc) |  |  
+| Dec 2 | **Towards Building Safe & Trustworthy AI Agents and A Path for Science‑ and Evidence‑based AI Policy** <br> Dawn Song, UC Berkeley <br> [Livestream](https://www.youtube.com/live/QAgR4uQ15rc) Slides posted soon. [Quiz 12](https://forms.gle/EHwL4Jb3LZzNDw7w7) |  |  
 
 &nbsp;
 ## Completion Certificate
