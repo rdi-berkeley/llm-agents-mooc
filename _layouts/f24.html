@@ -25,15 +25,22 @@
     {% include head.html %}
 
   <body>
-    {% include page-header.html %}
-
-    <section class="main-content">
       
-      {{ content }}
+    <section class="page-header" style="padding-bottom: 2rem; padding-top: 3rem;">
 
-      {% include page-footer.html %}
+        <h1 class="project-name">Advanced LLM Agents</h1>
+        <h2 class="project-tagline">MOOC, Spring 2025</h2>
 
     </section>
 
-  </body>
+    <section class="main-content">
+
+        {{content}}
+        
+        {% include page-footer.html %}
+        
+    </section>
+
+</body>
+
 </html>
